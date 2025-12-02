@@ -1,2 +1,2 @@
 # first
-Author -Mansvi
+Author -Manasvi
